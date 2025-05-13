@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [Hacki.vercel.app](Hacki.vercel.app)
+- 👨‍💻 All of my projects are available at [https://Hacki.vercel.app](Hacki.vercel.app)
 
 - 📫 Contact me **Szymon.Matloch11@gmail.com**
 
