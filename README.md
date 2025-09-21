@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Szymon</h1>
-<h3 align="center">I am a young, energetic programmer with over three years of experience in developing dynamic web applications using React.js and Node.js. I specialize in building scalable solutions with a focus on intuitive UX and clean code.</h3>
+  <h3 align="center">I'm developing dynamic web applications using Next.js and Node.js. I specialize in building scalable solutions with a focus on intuitive UX and clean code.</h3>
 
 - 🌱 I’m currently learning **Redux**
 
